@@ -71,18 +71,6 @@ Personal portfolio showcasing my work, skills, and contact info.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Todor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TodorLambrev19&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TodorLambrev19&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 📫 Get In Touch
 
 I'm currently looking for my first **Junior Frontend Developer** role. If you think I'd be a good fit for your team, I'd love to hear from you!
