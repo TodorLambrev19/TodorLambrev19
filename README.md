@@ -26,20 +26,6 @@ I'm a frontend developer from Bulgaria, trained at **SoftUni** and passionate ab
 
 ---
 
-## 🎓 Education & Certificates
-
-**[Software University (SoftUni)](https://softuni.bg/)** — JavaScript & Frontend Development Track
-
-| Certificate | Status |
-|---|---|
-| ✅ JS Basics | Completed |
-| ✅ JS Intermediate | Completed |
-| ✅ JS Advanced | Completed |
-| ✅ Frontend Development | Completed |
-| ✅ React | Completed |
-
----
-
 ## 🛠️ Tech Stack
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -52,14 +38,17 @@ I'm a frontend developer from Bulgaria, trained at **SoftUni** and passionate ab
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 ---
+## 🎓 Education & Certificates
 
-### 👕 [VRAG Clothing](https://github.com/TodorLambrev19/React-project-2025)
-A full-stack clothing brand e-commerce app built from scratch.
-- Firebase authentication (login, register, protected routes)
-- Firestore database for product management (create, edit, delete)
-- Responsive design for both desktop and mobile
+**[Software University (SoftUni)](https://softuni.bg/)** — JavaScript & Frontend Development Track
 
-**Stack:** React · Firebase · Firestore · React Router
+| Certificate | Status |
+|---|---|
+| ✅ JS Basics | Completed |
+| ✅ JS Intermediate | Completed |
+| ✅ JS Advanced | Completed |
+| ✅ Frontend Development | Completed |
+| ✅ React | Completed |
 
 ---
 
